@@ -1,0 +1,22 @@
+[
+  {
+     "id": "pd0wq31e",
+     "names":{
+       "international": "Super Mario World"
+     },
+     "assets":{
+        "logo":{
+           "uri": "https://www.speedrun.com/themes/smw/logo.png"
+        },
+        "cover-tiny":{
+           "uri":"https://www.speedrun.com/themes/smw/cover-32.png"
+        },
+        "cover-small":{
+           "uri":"https://www.speedrun.com/themes/smw/cover-64.png"
+        },
+        "cover-medium":{
+           "uri":"https://www.speedrun.com/themes/smw/cover-128.png"
+        }
+     }
+   }
+]
